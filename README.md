@@ -17,6 +17,6 @@ In order to compile a large dataset of Elon Musk quotes, vocabulary and phrases,
 
 In order to responsed negatively or exit the conversation, some predetermined commands had to be chosen. They are as follows:
 
-negative_responses = ("no", "nope", "nah", "naw", "not a chance", "sorry", 'nothing', 'not')
+negative_responses = ("no", "nope", "nah", "naw", "not a chance", "sorry", 'nothing', 'not') \n
 exit_commands = ("quit", "pause", "exit", "goodbye", "bye", "later", "stop", "finish")
 
