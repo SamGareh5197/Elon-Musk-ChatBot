@@ -1,7 +1,7 @@
 # Elon-Musk-ChatBot
 Have you ever wanted to chat to Elon Musk?
 
-Now you can!!!
+Now you can!
 
 After downloading the elon_tweets.txt and ElonBot.ipynb files, just run the python script. Then ask him questions and watch him reply!
 
